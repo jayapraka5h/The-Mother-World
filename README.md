@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Space Exploration: Journey Through the Universe</title>
     </head>
     <body>
@@ -31,7 +32,8 @@
         <h2>The Sun</h2>
         <p>The Sun is the center of our solar system and the primary source of energy for life on Earth. It is a massive ball of gas composed mostly of <ins>hydrogen</ins> and <ins>helium</ins>, undergoing nuclear fusion at its core.</p>
         <video controls width="640" height="360" src="https://cdn.pixabay.com/video/2023/11/28/191253-890894250_tiny.mp4"></video>
-
-        <footer> <p><strong>Created by: TAP Academy © 2025 HTML Assignment®</strong></p></footer>
+    <footer>
+            <p><strong>Created by: TAP Academy © 2026 HTML Assignment®</strong></p>
+        </footer>
     </body>
 </html>
