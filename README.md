@@ -33,7 +33,7 @@
         <p>The Sun is the center of our solar system and the primary source of energy for life on Earth. It is a massive ball of gas composed mostly of <ins>hydrogen</ins> and <ins>helium</ins>, undergoing nuclear fusion at its core.</p>
         <video controls width="640" height="360" src="https://cdn.pixabay.com/video/2023/11/28/191253-890894250_tiny.mp4"></video>
     <footer>
-            <p><strong> Useing HTML </strong></p>
+            <p><strong> Using HTML </strong></p>
         </footer>
     </body>
 </html>
